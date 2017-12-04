@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "华文新魏";
+}
+td {
+    padding: 5px 5px;
+    width: 60px;
+    font-size: 10px;
+    color: red;
+/*    background-color: black;*/
+    text-align: center;
+    border: 1px solid red;
+}
+a{
+    text-decoration: none;
+    color: #757575;
+}
+table {
+    border-collapse:collapse;
+}
